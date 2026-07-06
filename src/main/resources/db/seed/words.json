@@ -1,0 +1,1790 @@
+[
+  {
+    "english": "dog",
+    "koreanPronunciation": "도그",
+    "koreanMeaning": "개",
+    "category": "animal"
+  },
+  {
+    "english": "cat",
+    "koreanPronunciation": "캣",
+    "koreanMeaning": "고양이",
+    "category": "animal"
+  },
+  {
+    "english": "lion",
+    "koreanPronunciation": "라이언",
+    "koreanMeaning": "사자",
+    "category": "animal"
+  },
+  {
+    "english": "tiger",
+    "koreanPronunciation": "타이거",
+    "koreanMeaning": "호랑이",
+    "category": "animal"
+  },
+  {
+    "english": "elephant",
+    "koreanPronunciation": "엘리펀트",
+    "koreanMeaning": "코끼리",
+    "category": "animal"
+  },
+  {
+    "english": "giraffe",
+    "koreanPronunciation": "지라프",
+    "koreanMeaning": "기린",
+    "category": "animal"
+  },
+  {
+    "english": "zebra",
+    "koreanPronunciation": "지브라",
+    "koreanMeaning": "얼룩말",
+    "category": "animal"
+  },
+  {
+    "english": "monkey",
+    "koreanPronunciation": "몽키",
+    "koreanMeaning": "원숭이",
+    "category": "animal"
+  },
+  {
+    "english": "bear",
+    "koreanPronunciation": "베어",
+    "koreanMeaning": "곰",
+    "category": "animal"
+  },
+  {
+    "english": "panda",
+    "koreanPronunciation": "판다",
+    "koreanMeaning": "판다",
+    "category": "animal"
+  },
+  {
+    "english": "rabbit",
+    "koreanPronunciation": "래빗",
+    "koreanMeaning": "토끼",
+    "category": "animal"
+  },
+  {
+    "english": "fox",
+    "koreanPronunciation": "폭스",
+    "koreanMeaning": "여우",
+    "category": "animal"
+  },
+  {
+    "english": "wolf",
+    "koreanPronunciation": "울프",
+    "koreanMeaning": "늑대",
+    "category": "animal"
+  },
+  {
+    "english": "deer",
+    "koreanPronunciation": "디어",
+    "koreanMeaning": "사슴",
+    "category": "animal"
+  },
+  {
+    "english": "horse",
+    "koreanPronunciation": "호스",
+    "koreanMeaning": "말",
+    "category": "animal"
+  },
+  {
+    "english": "cow",
+    "koreanPronunciation": "카우",
+    "koreanMeaning": "소",
+    "category": "animal"
+  },
+  {
+    "english": "pig",
+    "koreanPronunciation": "피그",
+    "koreanMeaning": "돼지",
+    "category": "animal"
+  },
+  {
+    "english": "sheep",
+    "koreanPronunciation": "쉽",
+    "koreanMeaning": "양",
+    "category": "animal"
+  },
+  {
+    "english": "goat",
+    "koreanPronunciation": "고트",
+    "koreanMeaning": "염소",
+    "category": "animal"
+  },
+  {
+    "english": "chicken",
+    "koreanPronunciation": "치킨",
+    "koreanMeaning": "닭",
+    "category": "animal"
+  },
+  {
+    "english": "duck",
+    "koreanPronunciation": "덕",
+    "koreanMeaning": "오리",
+    "category": "animal"
+  },
+  {
+    "english": "goose",
+    "koreanPronunciation": "구스",
+    "koreanMeaning": "거위",
+    "category": "animal"
+  },
+  {
+    "english": "owl",
+    "koreanPronunciation": "아울",
+    "koreanMeaning": "부엉이",
+    "category": "animal"
+  },
+  {
+    "english": "eagle",
+    "koreanPronunciation": "이글",
+    "koreanMeaning": "독수리",
+    "category": "animal"
+  },
+  {
+    "english": "parrot",
+    "koreanPronunciation": "패럿",
+    "koreanMeaning": "앵무새",
+    "category": "animal"
+  },
+  {
+    "english": "penguin",
+    "koreanPronunciation": "펭귄",
+    "koreanMeaning": "펭귄",
+    "category": "animal"
+  },
+  {
+    "english": "dolphin",
+    "koreanPronunciation": "돌핀",
+    "koreanMeaning": "돌고래",
+    "category": "animal"
+  },
+  {
+    "english": "whale",
+    "koreanPronunciation": "웨일",
+    "koreanMeaning": "고래",
+    "category": "animal"
+  },
+  {
+    "english": "shark",
+    "koreanPronunciation": "샤크",
+    "koreanMeaning": "상어",
+    "category": "animal"
+  },
+  {
+    "english": "fish",
+    "koreanPronunciation": "피시",
+    "koreanMeaning": "물고기",
+    "category": "animal"
+  },
+  {
+    "english": "octopus",
+    "koreanPronunciation": "옥토퍼스",
+    "koreanMeaning": "문어",
+    "category": "animal"
+  },
+  {
+    "english": "crab",
+    "koreanPronunciation": "크랩",
+    "koreanMeaning": "게",
+    "category": "animal"
+  },
+  {
+    "english": "turtle",
+    "koreanPronunciation": "터틀",
+    "koreanMeaning": "거북이",
+    "category": "animal"
+  },
+  {
+    "english": "frog",
+    "koreanPronunciation": "프로그",
+    "koreanMeaning": "개구리",
+    "category": "animal"
+  },
+  {
+    "english": "snake",
+    "koreanPronunciation": "스네이크",
+    "koreanMeaning": "뱀",
+    "category": "animal"
+  },
+  {
+    "english": "lizard",
+    "koreanPronunciation": "리저드",
+    "koreanMeaning": "도마뱀",
+    "category": "animal"
+  },
+  {
+    "english": "butterfly",
+    "koreanPronunciation": "버터플라이",
+    "koreanMeaning": "나비",
+    "category": "animal"
+  },
+  {
+    "english": "bee",
+    "koreanPronunciation": "비",
+    "koreanMeaning": "벌",
+    "category": "animal"
+  },
+  {
+    "english": "ant",
+    "koreanPronunciation": "앤트",
+    "koreanMeaning": "개미",
+    "category": "animal"
+  },
+  {
+    "english": "spider",
+    "koreanPronunciation": "스파이더",
+    "koreanMeaning": "거미",
+    "category": "animal"
+  },
+  {
+    "english": "snail",
+    "koreanPronunciation": "스네일",
+    "koreanMeaning": "달팽이",
+    "category": "animal"
+  },
+  {
+    "english": "squirrel",
+    "koreanPronunciation": "스퀴럴",
+    "koreanMeaning": "다람쥐",
+    "category": "animal"
+  },
+  {
+    "english": "mouse",
+    "koreanPronunciation": "마우스",
+    "koreanMeaning": "쥐",
+    "category": "animal"
+  },
+  {
+    "english": "kangaroo",
+    "koreanPronunciation": "캥거루",
+    "koreanMeaning": "캥거루",
+    "category": "animal"
+  },
+  {
+    "english": "koala",
+    "koreanPronunciation": "코알라",
+    "koreanMeaning": "코알라",
+    "category": "animal"
+  },
+  {
+    "english": "hippo",
+    "koreanPronunciation": "히포",
+    "koreanMeaning": "하마",
+    "category": "animal"
+  },
+  {
+    "english": "camel",
+    "koreanPronunciation": "카멜",
+    "koreanMeaning": "낙타",
+    "category": "animal"
+  },
+  {
+    "english": "apple",
+    "koreanPronunciation": "애플",
+    "koreanMeaning": "사과",
+    "category": "food"
+  },
+  {
+    "english": "banana",
+    "koreanPronunciation": "바나나",
+    "koreanMeaning": "바나나",
+    "category": "food"
+  },
+  {
+    "english": "orange",
+    "koreanPronunciation": "오렌지",
+    "koreanMeaning": "오렌지",
+    "category": "food"
+  },
+  {
+    "english": "grape",
+    "koreanPronunciation": "그레이프",
+    "koreanMeaning": "포도",
+    "category": "food"
+  },
+  {
+    "english": "strawberry",
+    "koreanPronunciation": "스트로베리",
+    "koreanMeaning": "딸기",
+    "category": "food"
+  },
+  {
+    "english": "watermelon",
+    "koreanPronunciation": "워터멜론",
+    "koreanMeaning": "수박",
+    "category": "food"
+  },
+  {
+    "english": "peach",
+    "koreanPronunciation": "피치",
+    "koreanMeaning": "복숭아",
+    "category": "food"
+  },
+  {
+    "english": "pineapple",
+    "koreanPronunciation": "파인애플",
+    "koreanMeaning": "파인애플",
+    "category": "food"
+  },
+  {
+    "english": "lemon",
+    "koreanPronunciation": "레몬",
+    "koreanMeaning": "레몬",
+    "category": "food"
+  },
+  {
+    "english": "cherry",
+    "koreanPronunciation": "체리",
+    "koreanMeaning": "체리",
+    "category": "food"
+  },
+  {
+    "english": "bread",
+    "koreanPronunciation": "브레드",
+    "koreanMeaning": "빵",
+    "category": "food"
+  },
+  {
+    "english": "rice",
+    "koreanPronunciation": "라이스",
+    "koreanMeaning": "쌀밥",
+    "category": "food"
+  },
+  {
+    "english": "noodle",
+    "koreanPronunciation": "누들",
+    "koreanMeaning": "국수",
+    "category": "food"
+  },
+  {
+    "english": "pizza",
+    "koreanPronunciation": "피자",
+    "koreanMeaning": "피자",
+    "category": "food"
+  },
+  {
+    "english": "hamburger",
+    "koreanPronunciation": "햄버거",
+    "koreanMeaning": "햄버거",
+    "category": "food"
+  },
+  {
+    "english": "sandwich",
+    "koreanPronunciation": "샌드위치",
+    "koreanMeaning": "샌드위치",
+    "category": "food"
+  },
+  {
+    "english": "cheese",
+    "koreanPronunciation": "치즈",
+    "koreanMeaning": "치즈",
+    "category": "food"
+  },
+  {
+    "english": "egg",
+    "koreanPronunciation": "에그",
+    "koreanMeaning": "달걀",
+    "category": "food"
+  },
+  {
+    "english": "milk",
+    "koreanPronunciation": "밀크",
+    "koreanMeaning": "우유",
+    "category": "food"
+  },
+  {
+    "english": "juice",
+    "koreanPronunciation": "주스",
+    "koreanMeaning": "주스",
+    "category": "food"
+  },
+  {
+    "english": "water",
+    "koreanPronunciation": "워터",
+    "koreanMeaning": "물",
+    "category": "food"
+  },
+  {
+    "english": "cake",
+    "koreanPronunciation": "케이크",
+    "koreanMeaning": "케이크",
+    "category": "food"
+  },
+  {
+    "english": "cookie",
+    "koreanPronunciation": "쿠키",
+    "koreanMeaning": "쿠키",
+    "category": "food"
+  },
+  {
+    "english": "chocolate",
+    "koreanPronunciation": "초콜릿",
+    "koreanMeaning": "초콜릿",
+    "category": "food"
+  },
+  {
+    "english": "ice cream",
+    "koreanPronunciation": "아이스크림",
+    "koreanMeaning": "아이스크림",
+    "category": "food"
+  },
+  {
+    "english": "candy",
+    "koreanPronunciation": "캔디",
+    "koreanMeaning": "사탕",
+    "category": "food"
+  },
+  {
+    "english": "honey",
+    "koreanPronunciation": "허니",
+    "koreanMeaning": "꿀",
+    "category": "food"
+  },
+  {
+    "english": "butter",
+    "koreanPronunciation": "버터",
+    "koreanMeaning": "버터",
+    "category": "food"
+  },
+  {
+    "english": "soup",
+    "koreanPronunciation": "수프",
+    "koreanMeaning": "수프",
+    "category": "food"
+  },
+  {
+    "english": "salad",
+    "koreanPronunciation": "샐러드",
+    "koreanMeaning": "샐러드",
+    "category": "food"
+  },
+  {
+    "english": "potato",
+    "koreanPronunciation": "포테이토",
+    "koreanMeaning": "감자",
+    "category": "food"
+  },
+  {
+    "english": "tomato",
+    "koreanPronunciation": "토마토",
+    "koreanMeaning": "토마토",
+    "category": "food"
+  },
+  {
+    "english": "carrot",
+    "koreanPronunciation": "캐럿",
+    "koreanMeaning": "당근",
+    "category": "food"
+  },
+  {
+    "english": "onion",
+    "koreanPronunciation": "어니언",
+    "koreanMeaning": "양파",
+    "category": "food"
+  },
+  {
+    "english": "corn",
+    "koreanPronunciation": "콘",
+    "koreanMeaning": "옥수수",
+    "category": "food"
+  },
+  {
+    "english": "broccoli",
+    "koreanPronunciation": "브로콜리",
+    "koreanMeaning": "브로콜리",
+    "category": "food"
+  },
+  {
+    "english": "mushroom",
+    "koreanPronunciation": "머쉬룸",
+    "koreanMeaning": "버섯",
+    "category": "food"
+  },
+  {
+    "english": "pumpkin",
+    "koreanPronunciation": "펌킨",
+    "koreanMeaning": "호박",
+    "category": "food"
+  },
+  {
+    "english": "cucumber",
+    "koreanPronunciation": "큐컴버",
+    "koreanMeaning": "오이",
+    "category": "food"
+  },
+  {
+    "english": "peanut",
+    "koreanPronunciation": "피넛",
+    "koreanMeaning": "땅콩",
+    "category": "food"
+  },
+  {
+    "english": "popcorn",
+    "koreanPronunciation": "팝콘",
+    "koreanMeaning": "팝콘",
+    "category": "food"
+  },
+  {
+    "english": "red",
+    "koreanPronunciation": "레드",
+    "koreanMeaning": "빨강",
+    "category": "color"
+  },
+  {
+    "english": "blue",
+    "koreanPronunciation": "블루",
+    "koreanMeaning": "파랑",
+    "category": "color"
+  },
+  {
+    "english": "yellow",
+    "koreanPronunciation": "옐로우",
+    "koreanMeaning": "노랑",
+    "category": "color"
+  },
+  {
+    "english": "green",
+    "koreanPronunciation": "그린",
+    "koreanMeaning": "초록",
+    "category": "color"
+  },
+  {
+    "english": "purple",
+    "koreanPronunciation": "퍼플",
+    "koreanMeaning": "보라",
+    "category": "color"
+  },
+  {
+    "english": "pink",
+    "koreanPronunciation": "핑크",
+    "koreanMeaning": "분홍",
+    "category": "color"
+  },
+  {
+    "english": "black",
+    "koreanPronunciation": "블랙",
+    "koreanMeaning": "검정",
+    "category": "color"
+  },
+  {
+    "english": "white",
+    "koreanPronunciation": "화이트",
+    "koreanMeaning": "하양",
+    "category": "color"
+  },
+  {
+    "english": "brown",
+    "koreanPronunciation": "브라운",
+    "koreanMeaning": "갈색",
+    "category": "color"
+  },
+  {
+    "english": "gray",
+    "koreanPronunciation": "그레이",
+    "koreanMeaning": "회색",
+    "category": "color"
+  },
+  {
+    "english": "gold",
+    "koreanPronunciation": "골드",
+    "koreanMeaning": "금색",
+    "category": "color"
+  },
+  {
+    "english": "silver",
+    "koreanPronunciation": "실버",
+    "koreanMeaning": "은색",
+    "category": "color"
+  },
+  {
+    "english": "one",
+    "koreanPronunciation": "원",
+    "koreanMeaning": "일",
+    "category": "number"
+  },
+  {
+    "english": "two",
+    "koreanPronunciation": "투",
+    "koreanMeaning": "이",
+    "category": "number"
+  },
+  {
+    "english": "three",
+    "koreanPronunciation": "쓰리",
+    "koreanMeaning": "삼",
+    "category": "number"
+  },
+  {
+    "english": "four",
+    "koreanPronunciation": "포",
+    "koreanMeaning": "사",
+    "category": "number"
+  },
+  {
+    "english": "five",
+    "koreanPronunciation": "파이브",
+    "koreanMeaning": "오",
+    "category": "number"
+  },
+  {
+    "english": "six",
+    "koreanPronunciation": "식스",
+    "koreanMeaning": "육",
+    "category": "number"
+  },
+  {
+    "english": "seven",
+    "koreanPronunciation": "세븐",
+    "koreanMeaning": "칠",
+    "category": "number"
+  },
+  {
+    "english": "eight",
+    "koreanPronunciation": "에이트",
+    "koreanMeaning": "팔",
+    "category": "number"
+  },
+  {
+    "english": "nine",
+    "koreanPronunciation": "나인",
+    "koreanMeaning": "구",
+    "category": "number"
+  },
+  {
+    "english": "ten",
+    "koreanPronunciation": "텐",
+    "koreanMeaning": "십",
+    "category": "number"
+  },
+  {
+    "english": "eleven",
+    "koreanPronunciation": "일레븐",
+    "koreanMeaning": "십일",
+    "category": "number"
+  },
+  {
+    "english": "twelve",
+    "koreanPronunciation": "트웰브",
+    "koreanMeaning": "십이",
+    "category": "number"
+  },
+  {
+    "english": "thirteen",
+    "koreanPronunciation": "써틴",
+    "koreanMeaning": "십삼",
+    "category": "number"
+  },
+  {
+    "english": "fourteen",
+    "koreanPronunciation": "포틴",
+    "koreanMeaning": "십사",
+    "category": "number"
+  },
+  {
+    "english": "fifteen",
+    "koreanPronunciation": "피프틴",
+    "koreanMeaning": "십오",
+    "category": "number"
+  },
+  {
+    "english": "sixteen",
+    "koreanPronunciation": "식스틴",
+    "koreanMeaning": "십육",
+    "category": "number"
+  },
+  {
+    "english": "seventeen",
+    "koreanPronunciation": "세븐틴",
+    "koreanMeaning": "십칠",
+    "category": "number"
+  },
+  {
+    "english": "eighteen",
+    "koreanPronunciation": "에이틴",
+    "koreanMeaning": "십팔",
+    "category": "number"
+  },
+  {
+    "english": "nineteen",
+    "koreanPronunciation": "나인틴",
+    "koreanMeaning": "십구",
+    "category": "number"
+  },
+  {
+    "english": "twenty",
+    "koreanPronunciation": "트웬티",
+    "koreanMeaning": "이십",
+    "category": "number"
+  },
+  {
+    "english": "mother",
+    "koreanPronunciation": "마더",
+    "koreanMeaning": "엄마",
+    "category": "family"
+  },
+  {
+    "english": "father",
+    "koreanPronunciation": "파더",
+    "koreanMeaning": "아빠",
+    "category": "family"
+  },
+  {
+    "english": "sister",
+    "koreanPronunciation": "시스터",
+    "koreanMeaning": "누나/언니",
+    "category": "family"
+  },
+  {
+    "english": "brother",
+    "koreanPronunciation": "브라더",
+    "koreanMeaning": "형/오빠",
+    "category": "family"
+  },
+  {
+    "english": "grandmother",
+    "koreanPronunciation": "그랜드마더",
+    "koreanMeaning": "할머니",
+    "category": "family"
+  },
+  {
+    "english": "grandfather",
+    "koreanPronunciation": "그랜드파더",
+    "koreanMeaning": "할아버지",
+    "category": "family"
+  },
+  {
+    "english": "baby",
+    "koreanPronunciation": "베이비",
+    "koreanMeaning": "아기",
+    "category": "family"
+  },
+  {
+    "english": "son",
+    "koreanPronunciation": "선",
+    "koreanMeaning": "아들",
+    "category": "family"
+  },
+  {
+    "english": "daughter",
+    "koreanPronunciation": "도터",
+    "koreanMeaning": "딸",
+    "category": "family"
+  },
+  {
+    "english": "family",
+    "koreanPronunciation": "패밀리",
+    "koreanMeaning": "가족",
+    "category": "family"
+  },
+  {
+    "english": "uncle",
+    "koreanPronunciation": "엉클",
+    "koreanMeaning": "삼촌",
+    "category": "family"
+  },
+  {
+    "english": "aunt",
+    "koreanPronunciation": "앤트",
+    "koreanMeaning": "이모/고모",
+    "category": "family"
+  },
+  {
+    "english": "pencil",
+    "koreanPronunciation": "펜슬",
+    "koreanMeaning": "연필",
+    "category": "school"
+  },
+  {
+    "english": "eraser",
+    "koreanPronunciation": "이레이저",
+    "koreanMeaning": "지우개",
+    "category": "school"
+  },
+  {
+    "english": "ruler",
+    "koreanPronunciation": "룰러",
+    "koreanMeaning": "자",
+    "category": "school"
+  },
+  {
+    "english": "book",
+    "koreanPronunciation": "북",
+    "koreanMeaning": "책",
+    "category": "school"
+  },
+  {
+    "english": "notebook",
+    "koreanPronunciation": "노트북",
+    "koreanMeaning": "공책",
+    "category": "school"
+  },
+  {
+    "english": "bag",
+    "koreanPronunciation": "백",
+    "koreanMeaning": "가방",
+    "category": "school"
+  },
+  {
+    "english": "scissors",
+    "koreanPronunciation": "시저스",
+    "koreanMeaning": "가위",
+    "category": "school"
+  },
+  {
+    "english": "glue",
+    "koreanPronunciation": "글루",
+    "koreanMeaning": "풀",
+    "category": "school"
+  },
+  {
+    "english": "crayon",
+    "koreanPronunciation": "크레용",
+    "koreanMeaning": "크레용",
+    "category": "school"
+  },
+  {
+    "english": "paint",
+    "koreanPronunciation": "페인트",
+    "koreanMeaning": "물감",
+    "category": "school"
+  },
+  {
+    "english": "chair",
+    "koreanPronunciation": "체어",
+    "koreanMeaning": "의자",
+    "category": "school"
+  },
+  {
+    "english": "desk",
+    "koreanPronunciation": "데스크",
+    "koreanMeaning": "책상",
+    "category": "school"
+  },
+  {
+    "english": "blackboard",
+    "koreanPronunciation": "블랙보드",
+    "koreanMeaning": "칠판",
+    "category": "school"
+  },
+  {
+    "english": "chalk",
+    "koreanPronunciation": "초크",
+    "koreanMeaning": "분필",
+    "category": "school"
+  },
+  {
+    "english": "clock",
+    "koreanPronunciation": "클락",
+    "koreanMeaning": "시계",
+    "category": "school"
+  },
+  {
+    "english": "map",
+    "koreanPronunciation": "맵",
+    "koreanMeaning": "지도",
+    "category": "school"
+  },
+  {
+    "english": "globe",
+    "koreanPronunciation": "글로브",
+    "koreanMeaning": "지구본",
+    "category": "school"
+  },
+  {
+    "english": "computer",
+    "koreanPronunciation": "컴퓨터",
+    "koreanMeaning": "컴퓨터",
+    "category": "school"
+  },
+  {
+    "english": "calculator",
+    "koreanPronunciation": "캘큘레이터",
+    "koreanMeaning": "계산기",
+    "category": "school"
+  },
+  {
+    "english": "paper",
+    "koreanPronunciation": "페이퍼",
+    "koreanMeaning": "종이",
+    "category": "school"
+  },
+  {
+    "english": "shirt",
+    "koreanPronunciation": "셔츠",
+    "koreanMeaning": "셔츠",
+    "category": "clothes"
+  },
+  {
+    "english": "pants",
+    "koreanPronunciation": "팬츠",
+    "koreanMeaning": "바지",
+    "category": "clothes"
+  },
+  {
+    "english": "skirt",
+    "koreanPronunciation": "스커트",
+    "koreanMeaning": "치마",
+    "category": "clothes"
+  },
+  {
+    "english": "dress",
+    "koreanPronunciation": "드레스",
+    "koreanMeaning": "원피스",
+    "category": "clothes"
+  },
+  {
+    "english": "shoes",
+    "koreanPronunciation": "슈즈",
+    "koreanMeaning": "신발",
+    "category": "clothes"
+  },
+  {
+    "english": "socks",
+    "koreanPronunciation": "삭스",
+    "koreanMeaning": "양말",
+    "category": "clothes"
+  },
+  {
+    "english": "hat",
+    "koreanPronunciation": "햇",
+    "koreanMeaning": "모자",
+    "category": "clothes"
+  },
+  {
+    "english": "cap",
+    "koreanPronunciation": "캡",
+    "koreanMeaning": "캡모자",
+    "category": "clothes"
+  },
+  {
+    "english": "jacket",
+    "koreanPronunciation": "재킷",
+    "koreanMeaning": "재킷",
+    "category": "clothes"
+  },
+  {
+    "english": "coat",
+    "koreanPronunciation": "코트",
+    "koreanMeaning": "코트",
+    "category": "clothes"
+  },
+  {
+    "english": "gloves",
+    "koreanPronunciation": "글러브즈",
+    "koreanMeaning": "장갑",
+    "category": "clothes"
+  },
+  {
+    "english": "scarf",
+    "koreanPronunciation": "스카프",
+    "koreanMeaning": "목도리",
+    "category": "clothes"
+  },
+  {
+    "english": "boots",
+    "koreanPronunciation": "부츠",
+    "koreanMeaning": "부츠",
+    "category": "clothes"
+  },
+  {
+    "english": "sweater",
+    "koreanPronunciation": "스웨터",
+    "koreanMeaning": "스웨터",
+    "category": "clothes"
+  },
+  {
+    "english": "pajamas",
+    "koreanPronunciation": "파자마",
+    "koreanMeaning": "잠옷",
+    "category": "clothes"
+  },
+  {
+    "english": "belt",
+    "koreanPronunciation": "벨트",
+    "koreanMeaning": "벨트",
+    "category": "clothes"
+  },
+  {
+    "english": "tie",
+    "koreanPronunciation": "타이",
+    "koreanMeaning": "넥타이",
+    "category": "clothes"
+  },
+  {
+    "english": "sunglasses",
+    "koreanPronunciation": "선글라스",
+    "koreanMeaning": "선글라스",
+    "category": "clothes"
+  },
+  {
+    "english": "sun",
+    "koreanPronunciation": "선",
+    "koreanMeaning": "해",
+    "category": "weather"
+  },
+  {
+    "english": "rain",
+    "koreanPronunciation": "레인",
+    "koreanMeaning": "비",
+    "category": "weather"
+  },
+  {
+    "english": "snow",
+    "koreanPronunciation": "스노우",
+    "koreanMeaning": "눈",
+    "category": "weather"
+  },
+  {
+    "english": "cloud",
+    "koreanPronunciation": "클라우드",
+    "koreanMeaning": "구름",
+    "category": "weather"
+  },
+  {
+    "english": "wind",
+    "koreanPronunciation": "윈드",
+    "koreanMeaning": "바람",
+    "category": "weather"
+  },
+  {
+    "english": "storm",
+    "koreanPronunciation": "스톰",
+    "koreanMeaning": "폭풍",
+    "category": "weather"
+  },
+  {
+    "english": "rainbow",
+    "koreanPronunciation": "레인보우",
+    "koreanMeaning": "무지개",
+    "category": "weather"
+  },
+  {
+    "english": "lightning",
+    "koreanPronunciation": "라이트닝",
+    "koreanMeaning": "번개",
+    "category": "weather"
+  },
+  {
+    "english": "fog",
+    "koreanPronunciation": "포그",
+    "koreanMeaning": "안개",
+    "category": "weather"
+  },
+  {
+    "english": "umbrella",
+    "koreanPronunciation": "엄브렐라",
+    "koreanMeaning": "우산",
+    "category": "weather"
+  },
+  {
+    "english": "head",
+    "koreanPronunciation": "헤드",
+    "koreanMeaning": "머리",
+    "category": "body"
+  },
+  {
+    "english": "eye",
+    "koreanPronunciation": "아이",
+    "koreanMeaning": "눈",
+    "category": "body"
+  },
+  {
+    "english": "ear",
+    "koreanPronunciation": "이어",
+    "koreanMeaning": "귀",
+    "category": "body"
+  },
+  {
+    "english": "nose",
+    "koreanPronunciation": "노즈",
+    "koreanMeaning": "코",
+    "category": "body"
+  },
+  {
+    "english": "mouth",
+    "koreanPronunciation": "마우스",
+    "koreanMeaning": "입",
+    "category": "body"
+  },
+  {
+    "english": "hand",
+    "koreanPronunciation": "핸드",
+    "koreanMeaning": "손",
+    "category": "body"
+  },
+  {
+    "english": "foot",
+    "koreanPronunciation": "풋",
+    "koreanMeaning": "발",
+    "category": "body"
+  },
+  {
+    "english": "arm",
+    "koreanPronunciation": "암",
+    "koreanMeaning": "팔",
+    "category": "body"
+  },
+  {
+    "english": "leg",
+    "koreanPronunciation": "레그",
+    "koreanMeaning": "다리",
+    "category": "body"
+  },
+  {
+    "english": "finger",
+    "koreanPronunciation": "핑거",
+    "koreanMeaning": "손가락",
+    "category": "body"
+  },
+  {
+    "english": "hair",
+    "koreanPronunciation": "헤어",
+    "koreanMeaning": "머리카락",
+    "category": "body"
+  },
+  {
+    "english": "tooth",
+    "koreanPronunciation": "투스",
+    "koreanMeaning": "이",
+    "category": "body"
+  },
+  {
+    "english": "shoulder",
+    "koreanPronunciation": "숄더",
+    "koreanMeaning": "어깨",
+    "category": "body"
+  },
+  {
+    "english": "knee",
+    "koreanPronunciation": "니",
+    "koreanMeaning": "무릎",
+    "category": "body"
+  },
+  {
+    "english": "neck",
+    "koreanPronunciation": "넥",
+    "koreanMeaning": "목",
+    "category": "body"
+  },
+  {
+    "english": "tongue",
+    "koreanPronunciation": "텅",
+    "koreanMeaning": "혀",
+    "category": "body"
+  },
+  {
+    "english": "car",
+    "koreanPronunciation": "카",
+    "koreanMeaning": "자동차",
+    "category": "transportation"
+  },
+  {
+    "english": "bus",
+    "koreanPronunciation": "버스",
+    "koreanMeaning": "버스",
+    "category": "transportation"
+  },
+  {
+    "english": "train",
+    "koreanPronunciation": "트레인",
+    "koreanMeaning": "기차",
+    "category": "transportation"
+  },
+  {
+    "english": "airplane",
+    "koreanPronunciation": "에어플레인",
+    "koreanMeaning": "비행기",
+    "category": "transportation"
+  },
+  {
+    "english": "ship",
+    "koreanPronunciation": "쉽",
+    "koreanMeaning": "배",
+    "category": "transportation"
+  },
+  {
+    "english": "boat",
+    "koreanPronunciation": "보트",
+    "koreanMeaning": "보트",
+    "category": "transportation"
+  },
+  {
+    "english": "bicycle",
+    "koreanPronunciation": "바이시클",
+    "koreanMeaning": "자전거",
+    "category": "transportation"
+  },
+  {
+    "english": "motorcycle",
+    "koreanPronunciation": "모터사이클",
+    "koreanMeaning": "오토바이",
+    "category": "transportation"
+  },
+  {
+    "english": "truck",
+    "koreanPronunciation": "트럭",
+    "koreanMeaning": "트럭",
+    "category": "transportation"
+  },
+  {
+    "english": "taxi",
+    "koreanPronunciation": "택시",
+    "koreanMeaning": "택시",
+    "category": "transportation"
+  },
+  {
+    "english": "helicopter",
+    "koreanPronunciation": "헬리콥터",
+    "koreanMeaning": "헬리콥터",
+    "category": "transportation"
+  },
+  {
+    "english": "submarine",
+    "koreanPronunciation": "서브마린",
+    "koreanMeaning": "잠수함",
+    "category": "transportation"
+  },
+  {
+    "english": "rocket",
+    "koreanPronunciation": "로켓",
+    "koreanMeaning": "로켓",
+    "category": "transportation"
+  },
+  {
+    "english": "tractor",
+    "koreanPronunciation": "트랙터",
+    "koreanMeaning": "트랙터",
+    "category": "transportation"
+  },
+  {
+    "english": "ambulance",
+    "koreanPronunciation": "앰뷸런스",
+    "koreanMeaning": "구급차",
+    "category": "transportation"
+  },
+  {
+    "english": "subway",
+    "koreanPronunciation": "서브웨이",
+    "koreanMeaning": "지하철",
+    "category": "transportation"
+  },
+  {
+    "english": "ferry",
+    "koreanPronunciation": "페리",
+    "koreanMeaning": "여객선",
+    "category": "transportation"
+  },
+  {
+    "english": "scooter",
+    "koreanPronunciation": "스쿠터",
+    "koreanMeaning": "스쿠터",
+    "category": "transportation"
+  },
+  {
+    "english": "house",
+    "koreanPronunciation": "하우스",
+    "koreanMeaning": "집",
+    "category": "house"
+  },
+  {
+    "english": "door",
+    "koreanPronunciation": "도어",
+    "koreanMeaning": "문",
+    "category": "house"
+  },
+  {
+    "english": "window",
+    "koreanPronunciation": "윈도우",
+    "koreanMeaning": "창문",
+    "category": "house"
+  },
+  {
+    "english": "bed",
+    "koreanPronunciation": "베드",
+    "koreanMeaning": "침대",
+    "category": "house"
+  },
+  {
+    "english": "table",
+    "koreanPronunciation": "테이블",
+    "koreanMeaning": "탁자",
+    "category": "house"
+  },
+  {
+    "english": "sofa",
+    "koreanPronunciation": "소파",
+    "koreanMeaning": "소파",
+    "category": "house"
+  },
+  {
+    "english": "lamp",
+    "koreanPronunciation": "램프",
+    "koreanMeaning": "램프",
+    "category": "house"
+  },
+  {
+    "english": "television",
+    "koreanPronunciation": "텔레비전",
+    "koreanMeaning": "텔레비전",
+    "category": "house"
+  },
+  {
+    "english": "refrigerator",
+    "koreanPronunciation": "리프리저레이터",
+    "koreanMeaning": "냉장고",
+    "category": "house"
+  },
+  {
+    "english": "oven",
+    "koreanPronunciation": "오븐",
+    "koreanMeaning": "오븐",
+    "category": "house"
+  },
+  {
+    "english": "sink",
+    "koreanPronunciation": "싱크",
+    "koreanMeaning": "싱크대",
+    "category": "house"
+  },
+  {
+    "english": "bathtub",
+    "koreanPronunciation": "배스터브",
+    "koreanMeaning": "욕조",
+    "category": "house"
+  },
+  {
+    "english": "mirror",
+    "koreanPronunciation": "미러",
+    "koreanMeaning": "거울",
+    "category": "house"
+  },
+  {
+    "english": "pillow",
+    "koreanPronunciation": "필로우",
+    "koreanMeaning": "베개",
+    "category": "house"
+  },
+  {
+    "english": "blanket",
+    "koreanPronunciation": "블랭킷",
+    "koreanMeaning": "이불",
+    "category": "house"
+  },
+  {
+    "english": "key",
+    "koreanPronunciation": "키",
+    "koreanMeaning": "열쇠",
+    "category": "house"
+  },
+  {
+    "english": "roof",
+    "koreanPronunciation": "루프",
+    "koreanMeaning": "지붕",
+    "category": "house"
+  },
+  {
+    "english": "stairs",
+    "koreanPronunciation": "스테어즈",
+    "koreanMeaning": "계단",
+    "category": "house"
+  },
+  {
+    "english": "garden",
+    "koreanPronunciation": "가든",
+    "koreanMeaning": "정원",
+    "category": "house"
+  },
+  {
+    "english": "curtain",
+    "koreanPronunciation": "커튼",
+    "koreanMeaning": "커튼",
+    "category": "house"
+  },
+  {
+    "english": "tree",
+    "koreanPronunciation": "트리",
+    "koreanMeaning": "나무",
+    "category": "nature"
+  },
+  {
+    "english": "flower",
+    "koreanPronunciation": "플라워",
+    "koreanMeaning": "꽃",
+    "category": "nature"
+  },
+  {
+    "english": "mountain",
+    "koreanPronunciation": "마운틴",
+    "koreanMeaning": "산",
+    "category": "nature"
+  },
+  {
+    "english": "river",
+    "koreanPronunciation": "리버",
+    "koreanMeaning": "강",
+    "category": "nature"
+  },
+  {
+    "english": "lake",
+    "koreanPronunciation": "레이크",
+    "koreanMeaning": "호수",
+    "category": "nature"
+  },
+  {
+    "english": "ocean",
+    "koreanPronunciation": "오션",
+    "koreanMeaning": "바다",
+    "category": "nature"
+  },
+  {
+    "english": "beach",
+    "koreanPronunciation": "비치",
+    "koreanMeaning": "해변",
+    "category": "nature"
+  },
+  {
+    "english": "forest",
+    "koreanPronunciation": "포레스트",
+    "koreanMeaning": "숲",
+    "category": "nature"
+  },
+  {
+    "english": "sky",
+    "koreanPronunciation": "스카이",
+    "koreanMeaning": "하늘",
+    "category": "nature"
+  },
+  {
+    "english": "star",
+    "koreanPronunciation": "스타",
+    "koreanMeaning": "별",
+    "category": "nature"
+  },
+  {
+    "english": "moon",
+    "koreanPronunciation": "문",
+    "koreanMeaning": "달",
+    "category": "nature"
+  },
+  {
+    "english": "earth",
+    "koreanPronunciation": "어스",
+    "koreanMeaning": "지구",
+    "category": "nature"
+  },
+  {
+    "english": "grass",
+    "koreanPronunciation": "그래스",
+    "koreanMeaning": "잔디",
+    "category": "nature"
+  },
+  {
+    "english": "leaf",
+    "koreanPronunciation": "리프",
+    "koreanMeaning": "나뭇잎",
+    "category": "nature"
+  },
+  {
+    "english": "rock",
+    "koreanPronunciation": "락",
+    "koreanMeaning": "바위",
+    "category": "nature"
+  },
+  {
+    "english": "sand",
+    "koreanPronunciation": "샌드",
+    "koreanMeaning": "모래",
+    "category": "nature"
+  },
+  {
+    "english": "island",
+    "koreanPronunciation": "아일랜드",
+    "koreanMeaning": "섬",
+    "category": "nature"
+  },
+  {
+    "english": "volcano",
+    "koreanPronunciation": "볼케이노",
+    "koreanMeaning": "화산",
+    "category": "nature"
+  },
+  {
+    "english": "desert",
+    "koreanPronunciation": "데저트",
+    "koreanMeaning": "사막",
+    "category": "nature"
+  },
+  {
+    "english": "waterfall",
+    "koreanPronunciation": "워터폴",
+    "koreanMeaning": "폭포",
+    "category": "nature"
+  },
+  {
+    "english": "circle",
+    "koreanPronunciation": "서클",
+    "koreanMeaning": "원",
+    "category": "shape"
+  },
+  {
+    "english": "square",
+    "koreanPronunciation": "스퀘어",
+    "koreanMeaning": "정사각형",
+    "category": "shape"
+  },
+  {
+    "english": "triangle",
+    "koreanPronunciation": "트라이앵글",
+    "koreanMeaning": "삼각형",
+    "category": "shape"
+  },
+  {
+    "english": "rectangle",
+    "koreanPronunciation": "렉탱글",
+    "koreanMeaning": "직사각형",
+    "category": "shape"
+  },
+  {
+    "english": "heart",
+    "koreanPronunciation": "하트",
+    "koreanMeaning": "하트",
+    "category": "shape"
+  },
+  {
+    "english": "diamond",
+    "koreanPronunciation": "다이아몬드",
+    "koreanMeaning": "다이아몬드",
+    "category": "shape"
+  },
+  {
+    "english": "oval",
+    "koreanPronunciation": "오벌",
+    "koreanMeaning": "타원",
+    "category": "shape"
+  },
+  {
+    "english": "star shape",
+    "koreanPronunciation": "스타",
+    "koreanMeaning": "별모양",
+    "category": "shape"
+  },
+  {
+    "english": "soccer",
+    "koreanPronunciation": "사커",
+    "koreanMeaning": "축구",
+    "category": "sport"
+  },
+  {
+    "english": "basketball",
+    "koreanPronunciation": "바스켓볼",
+    "koreanMeaning": "농구",
+    "category": "sport"
+  },
+  {
+    "english": "baseball",
+    "koreanPronunciation": "베이스볼",
+    "koreanMeaning": "야구",
+    "category": "sport"
+  },
+  {
+    "english": "tennis",
+    "koreanPronunciation": "테니스",
+    "koreanMeaning": "테니스",
+    "category": "sport"
+  },
+  {
+    "english": "swimming",
+    "koreanPronunciation": "스위밍",
+    "koreanMeaning": "수영",
+    "category": "sport"
+  },
+  {
+    "english": "running",
+    "koreanPronunciation": "러닝",
+    "koreanMeaning": "달리기",
+    "category": "sport"
+  },
+  {
+    "english": "golf",
+    "koreanPronunciation": "골프",
+    "koreanMeaning": "골프",
+    "category": "sport"
+  },
+  {
+    "english": "volleyball",
+    "koreanPronunciation": "발리볼",
+    "koreanMeaning": "배구",
+    "category": "sport"
+  },
+  {
+    "english": "badminton",
+    "koreanPronunciation": "배드민턴",
+    "koreanMeaning": "배드민턴",
+    "category": "sport"
+  },
+  {
+    "english": "boxing",
+    "koreanPronunciation": "복싱",
+    "koreanMeaning": "복싱",
+    "category": "sport"
+  },
+  {
+    "english": "skiing",
+    "koreanPronunciation": "스키잉",
+    "koreanMeaning": "스키",
+    "category": "sport"
+  },
+  {
+    "english": "skating",
+    "koreanPronunciation": "스케이팅",
+    "koreanMeaning": "스케이트",
+    "category": "sport"
+  },
+  {
+    "english": "surfing",
+    "koreanPronunciation": "서핑",
+    "koreanMeaning": "서핑",
+    "category": "sport"
+  },
+  {
+    "english": "cycling",
+    "koreanPronunciation": "사이클링",
+    "koreanMeaning": "자전거타기",
+    "category": "sport"
+  },
+  {
+    "english": "hockey",
+    "koreanPronunciation": "하키",
+    "koreanMeaning": "하키",
+    "category": "sport"
+  },
+  {
+    "english": "cricket",
+    "koreanPronunciation": "크리켓",
+    "koreanMeaning": "크리켓",
+    "category": "sport"
+  },
+  {
+    "english": "run",
+    "koreanPronunciation": "런",
+    "koreanMeaning": "달리다",
+    "category": "action"
+  },
+  {
+    "english": "jump",
+    "koreanPronunciation": "점프",
+    "koreanMeaning": "뛰다",
+    "category": "action"
+  },
+  {
+    "english": "sleep",
+    "koreanPronunciation": "슬립",
+    "koreanMeaning": "자다",
+    "category": "action"
+  },
+  {
+    "english": "eat",
+    "koreanPronunciation": "이트",
+    "koreanMeaning": "먹다",
+    "category": "action"
+  },
+  {
+    "english": "drink",
+    "koreanPronunciation": "드링크",
+    "koreanMeaning": "마시다",
+    "category": "action"
+  },
+  {
+    "english": "read",
+    "koreanPronunciation": "리드",
+    "koreanMeaning": "읽다",
+    "category": "action"
+  },
+  {
+    "english": "write",
+    "koreanPronunciation": "라이트",
+    "koreanMeaning": "쓰다",
+    "category": "action"
+  },
+  {
+    "english": "sing",
+    "koreanPronunciation": "싱",
+    "koreanMeaning": "노래하다",
+    "category": "action"
+  },
+  {
+    "english": "dance",
+    "koreanPronunciation": "댄스",
+    "koreanMeaning": "춤추다",
+    "category": "action"
+  },
+  {
+    "english": "swim",
+    "koreanPronunciation": "스윔",
+    "koreanMeaning": "수영하다",
+    "category": "action"
+  },
+  {
+    "english": "fly",
+    "koreanPronunciation": "플라이",
+    "koreanMeaning": "날다",
+    "category": "action"
+  },
+  {
+    "english": "walk",
+    "koreanPronunciation": "워크",
+    "koreanMeaning": "걷다",
+    "category": "action"
+  },
+  {
+    "english": "sit",
+    "koreanPronunciation": "싯",
+    "koreanMeaning": "앉다",
+    "category": "action"
+  },
+  {
+    "english": "stand",
+    "koreanPronunciation": "스탠드",
+    "koreanMeaning": "서다",
+    "category": "action"
+  },
+  {
+    "english": "laugh",
+    "koreanPronunciation": "래프",
+    "koreanMeaning": "웃다",
+    "category": "action"
+  },
+  {
+    "english": "cry",
+    "koreanPronunciation": "크라이",
+    "koreanMeaning": "울다",
+    "category": "action"
+  },
+  {
+    "english": "smile",
+    "koreanPronunciation": "스마일",
+    "koreanMeaning": "미소짓다",
+    "category": "action"
+  },
+  {
+    "english": "wave",
+    "koreanPronunciation": "웨이브",
+    "koreanMeaning": "손흔들다",
+    "category": "action"
+  },
+  {
+    "english": "clap",
+    "koreanPronunciation": "클랩",
+    "koreanMeaning": "박수치다",
+    "category": "action"
+  },
+  {
+    "english": "hug",
+    "koreanPronunciation": "허그",
+    "koreanMeaning": "안다",
+    "category": "action"
+  }
+]
